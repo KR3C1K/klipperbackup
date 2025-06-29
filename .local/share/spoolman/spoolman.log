@@ -126,3 +126,5 @@
 2025-06-29 15:30:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2025-06-29 15:30:23:INFO:External DB synced. Filaments: 5656, Materials: 32
 2025-06-29 15:31:06:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:31:39:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:31:40:INFO:Client 192.168.1.26 is now listening on pool 
