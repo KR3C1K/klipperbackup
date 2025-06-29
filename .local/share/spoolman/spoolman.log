@@ -117,3 +117,10 @@
 2025-06-29 15:30:11:INFO:Setting up database...
 2025-06-29 15:30:11:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
 2025-06-29 15:30:11:INFO:Performing migrations...
+2025-06-29 15:30:16:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 15:30:16:INFO:Scheduling external DB sync.
+2025-06-29 15:30:16:INFO:Startup complete.
+2025-06-29 15:30:16:INFO:Syncing external DB.
+2025-06-29 15:30:17:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 15:30:20:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 15:30:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
