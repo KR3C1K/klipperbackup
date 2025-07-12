@@ -1,0 +1,134 @@
+2025-06-29 12:56:40:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 12:56:40:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 12:56:40:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 12:56:40:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 12:56:40:INFO:Setting up database...
+2025-06-29 12:56:40:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 12:56:40:INFO:Performing migrations...
+2025-06-29 12:56:48:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 12:56:48:INFO:Scheduling external DB sync.
+2025-06-29 12:56:48:INFO:Startup complete.
+2025-06-29 12:56:48:INFO:Syncing external DB.
+2025-06-29 12:56:50:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 12:56:54:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 12:56:54:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 12:56:57:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 12:56:57:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 13:10:43:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 13:10:43:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 13:10:49:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 13:11:05:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 13:20:31:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 13:20:31:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 13:21:12:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 13:21:12:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 13:21:12:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 13:21:12:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 13:21:12:INFO:Setting up database...
+2025-06-29 13:21:12:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 13:21:12:INFO:Performing migrations...
+2025-06-29 13:21:18:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 13:21:18:INFO:Scheduling external DB sync.
+2025-06-29 13:21:18:INFO:Startup complete.
+2025-06-29 13:21:18:INFO:Syncing external DB.
+2025-06-29 13:21:18:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 13:21:21:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 13:21:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 13:21:24:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 13:22:41:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 13:46:38:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 13:46:38:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 13:47:20:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 13:47:20:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 13:47:20:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 13:47:20:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 13:47:20:INFO:Setting up database...
+2025-06-29 13:47:20:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 13:47:21:INFO:Performing migrations...
+2025-06-29 13:47:26:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 13:47:26:INFO:Scheduling external DB sync.
+2025-06-29 13:47:26:INFO:Startup complete.
+2025-06-29 13:47:26:INFO:Syncing external DB.
+2025-06-29 13:47:27:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 13:47:30:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 13:47:30:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 13:47:33:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 13:50:41:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 14:13:26:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 14:13:26:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 14:13:26:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 14:13:26:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 14:13:26:INFO:Setting up database...
+2025-06-29 14:13:26:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 14:13:26:INFO:Performing migrations...
+2025-06-29 14:13:31:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 14:13:31:INFO:Scheduling external DB sync.
+2025-06-29 14:13:31:INFO:Startup complete.
+2025-06-29 14:13:31:INFO:Syncing external DB.
+2025-06-29 14:13:31:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 14:13:34:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 14:13:34:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 14:13:37:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 14:26:02:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 14:35:31:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 14:35:32:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 14:45:46:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 14:45:46:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 14:45:46:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 14:45:46:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 14:45:46:INFO:Setting up database...
+2025-06-29 14:45:46:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 14:45:46:INFO:Performing migrations...
+2025-06-29 14:45:52:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 14:45:52:INFO:Scheduling external DB sync.
+2025-06-29 14:45:52:INFO:Startup complete.
+2025-06-29 14:45:52:INFO:Syncing external DB.
+2025-06-29 14:45:53:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 14:45:55:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 14:45:56:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 14:45:58:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 14:59:14:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:16:29:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:16:29:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 15:17:11:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 15:17:11:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 15:17:11:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 15:17:11:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 15:17:11:INFO:Setting up database...
+2025-06-29 15:17:11:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 15:17:12:INFO:Performing migrations...
+2025-06-29 15:17:18:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 15:17:18:INFO:Scheduling external DB sync.
+2025-06-29 15:17:18:INFO:Startup complete.
+2025-06-29 15:17:18:INFO:Syncing external DB.
+2025-06-29 15:17:18:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 15:17:21:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 15:17:22:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 15:17:24:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 15:24:41:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 15:24:47:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 15:29:05:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:29:27:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:29:27:INFO:Client 192.168.1.70 has stopped listening on pool spool
+2025-06-29 15:30:11:INFO:Starting Spoolman v0.18.1 (commit: 306dbe4) (built: 2024-05-22 18:18:00+00:00)
+2025-06-29 15:30:11:INFO:Using data directory: /home/kr3t/.local/share/spoolman
+2025-06-29 15:30:11:INFO:Using logs directory: /home/kr3t/.local/share/spoolman
+2025-06-29 15:30:11:INFO:Using backups directory: /home/kr3t/.local/share/spoolman/backups
+2025-06-29 15:30:11:INFO:Setting up database...
+2025-06-29 15:30:11:INFO:No database type specified, using a default SQLite database located at "/home/kr3t/.local/share/spoolman/spoolman.db"
+2025-06-29 15:30:11:INFO:Performing migrations...
+2025-06-29 15:30:16:INFO:Scheduling automatic database backup for midnight.
+2025-06-29 15:30:16:INFO:Scheduling external DB sync.
+2025-06-29 15:30:16:INFO:Startup complete.
+2025-06-29 15:30:16:INFO:Syncing external DB.
+2025-06-29 15:30:17:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-06-29 15:30:20:INFO:Client 192.168.1.70 is now listening on pool spool
+2025-06-29 15:30:21:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-06-29 15:30:23:INFO:External DB synced. Filaments: 5656, Materials: 32
+2025-06-29 15:31:06:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:31:39:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:31:40:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:35:24:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:35:25:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:44:45:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:44:45:INFO:Client 192.168.1.70 has stopped listening on pool spool
