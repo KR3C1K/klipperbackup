@@ -130,3 +130,5 @@
 2025-06-29 15:31:40:INFO:Client 192.168.1.26 is now listening on pool 
 2025-06-29 15:35:24:INFO:Client 192.168.1.26 has stopped listening on pool 
 2025-06-29 15:35:25:INFO:Client 192.168.1.26 is now listening on pool 
+2025-06-29 15:44:45:INFO:Client 192.168.1.26 has stopped listening on pool 
+2025-06-29 15:44:45:INFO:Client 192.168.1.70 has stopped listening on pool spool
